@@ -1,5 +1,4 @@
-/.git/*
-/.idea/*
+.idea/
 *.xml
-*.eml
-/not modules/*
+*.iml
+node_modules/
